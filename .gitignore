@@ -35,8 +35,6 @@ build/
 ### Secrets ###
 src/main/resources/application.properties
 
-### JWT ###
-src/main/java/com/app/onlinestore/security/JwtUtil.java
 
 # Compiled class file
 *.class
